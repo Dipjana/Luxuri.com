@@ -1,0 +1,25 @@
+{
+  "name": "luxuri-server",
+  "version": "1.0.0",
+  "description": "This is nodeJs backend for luxuri API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "Dipsundar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "querystring": "^0.2.1"
+  }
+}
