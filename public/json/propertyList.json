@@ -1,0 +1,130 @@
+{
+    "status": true,
+    "lists": [
+        {
+            "id": 1,
+            "beds" : 2,
+            "guests" : 3,
+            "location" : "Miami",
+            "charge_per_night" : 2500,
+            "title" : "Casa Murano",
+            "cover_image" : "http://localhost:3000/images/property-1.jpg",
+            "amenities" : [
+              {
+                "id" : 1,
+                "name": "Jacuzzi",
+                "imageUrl" : "http://localhost:3000/images/Jacuzzi.png"
+              },
+              {
+                "id" : 2,
+                "name": "Mini Bar",
+                "imageUrl" : "http://localhost:3000/images/mini-bar.png"
+              },
+              {
+                "id" : 3,
+                "name": "Heated Pool",
+                "imageUrl" : "http://localhost:3000/images/headted-pool.png"
+              },
+              {
+                "id" : 4,
+                "name": "Gated House",
+                "imageUrl" : "http://localhost:3000/images/gated-house.png"
+              }
+            ]
+             
+        },
+        {
+            "id": 2,
+            "beds" : 2,
+            "guests" : 3,
+            "location" : "Miami",
+            "charge_per_night" : 2500,
+            "title" : "Casa Murano",
+            "cover_image" : "http://localhost:3000/images/property-2.jpg",
+            "amenities" : [
+              {
+                "id" : 1,
+                "name": "Jacuzzi",
+                "imageUrl" : "http://localhost:3000/images/Jacuzzi.png"
+              },
+              {
+                "id" : 2,
+                "name": "Mini Bar",
+                "imageUrl" : "http://localhost:3000/images/mini-bar.png"
+              },
+              {
+                "id" : 3,
+                "name": "Heated Pool",
+                "imageUrl" : "http://localhost:3000/images/headted-pool.png"
+              },
+              {
+                "id" : 4,
+                "name": "Gated House",
+                "imageUrl" : "http://localhost:3000/images/gated-house.png"
+              }
+            ]
+             
+        },
+        {
+            "id": 3,
+            "beds" : 2,
+            "guests" : 3,
+            "location" : "Miami",
+            "charge_per_night" : 2500,
+            "title" : "Casa Murano",
+            "cover_image" : "http://localhost:3000/images/property-3.jpg",
+            "amenities" : [
+              {
+                "id" : 1,
+                "name": "Jacuzzi",
+                "imageUrl" : "http://localhost:3000/images/Jacuzzi.png"
+              },
+              {
+                "id" : 2,
+                "name": "Mini Bar",
+                "imageUrl" : "http://localhost:3000/images/mini-bar.png"
+              },
+              {
+                "id" : 3,
+                "name": "Heated Pool",
+                "imageUrl" : "http://localhost:3000/images/headted-pool.png"
+              },
+              {
+                "id" : 4,
+                "name": "Gated House",
+                "imageUrl" : "http://localhost:3000/images/gated-house.png"
+              }
+            ]
+             
+        },
+        {
+            "id": 4,
+            "beds" : 2,
+            "guests" : 3,
+            "location" : "Miami",
+            "charge_per_night" : 2500,
+            "title" : "Casa Murano",
+            "cover_image" : "http://localhost:3000/images/property-4.jpg",
+            "amenities" : [
+              {
+                "id" : 1,
+                "name": "Jacuzzi",
+                "imageUrl" : "http://localhost:3000/images/Jacuzzi.png"
+              },
+              {
+                "id" : 3,
+                "name": "Heated Pool",
+                "imageUrl" : "http://localhost:3000/images/headted-pool.png"
+              },
+              {
+                "id" : 4,
+                "name": "Gated House",
+                "imageUrl" : "http://localhost:3000/images/gated-house.png"
+              }
+            ]
+             
+        }
+        
+    ],
+    "message" : "Property list fetched successfully"
+}

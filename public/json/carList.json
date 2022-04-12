@@ -1,0 +1,31 @@
+{
+    "status": true,
+    "lists": [
+        {
+            "id": 1,
+            "charge_per_day" : 500,
+            "title" : "Tesla Model 3",
+            "cover_image" : "http://localhost:3000/images/2019_huracan_evo_15-p-500.jpeg" 
+        },
+        {
+            "id": 2,
+            "charge_per_day" : 1500,
+            "title" : "Bugati veron",
+            "cover_image" : "http://localhost:3000/images/2019_huracan_evo_6-p-1080.jpeg" 
+        },
+        {
+            "id": 3,
+            "charge_per_day" : 700,
+            "title" : "BMW",
+            "cover_image" : "http://localhost:3000/images/2019_huracan_evo_17-p-1080.jpeg" 
+        },
+        {
+            "id": 4,
+            "charge_per_day" : 300,
+            "title" : "Honda City",
+            "cover_image" : "http://localhost:3000/images/car-2.png" 
+        }
+        
+    ],
+    "message" : "Car list fetched successfully"
+}

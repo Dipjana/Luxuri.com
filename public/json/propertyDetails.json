@@ -1,0 +1,41 @@
+{
+    "status": true,
+    "property": {
+        "id": 1,
+        "beds" : 2,
+        "guests" : 3,
+        "bathroom" : 3,
+        "location" : "Miami",
+        "charge_per_night" : 2500,
+        "security_deposit" : 2500,
+        "title" : "Casa Murano",
+        "description" : "This stunning waterfront oasis will give you full serenity with its canopy of tropical trees and its open-concept, airy home. You and your guests will have plenty of space both inside and outside of this 5 bedroom Miami vacation home. Enjoy a full water experience with the outside lounging area, 85 ft. dock, and spacious pool. It is only minutes away from the lively Las Olas strip and beach, so your stay will be full of entertainment!",
+        "cover_image" : "http://localhost:3000/images/property-1.jpg",
+        "other_image" : "http://localhost:3000/images/property-7.jpg",
+        "amenities" : [
+            {
+                "id" : 1,
+                "name": "Jacuzzi",
+                "imageUrl" : "http://localhost:3000/images/Jacuzzi.png"
+            },
+            {
+                "id" : 2,
+                "name": "Mini Bar",
+                "imageUrl" : "http://localhost:3000/images/mini-bar.png"
+            },
+            {
+                "id" : 3,
+                "name": "Heated Pool",
+                "imageUrl" : "http://localhost:3000/images/heated-pool.png"
+            }
+        ],
+        "property_images" : [
+            "http://localhost:3000/images/property-1.jpg",
+            "http://localhost:3000/images/property-2.jpg",
+            "http://localhost:3000/images/property-3.jpg",
+            "http://localhost:3000/images/property-4.jpg"
+        ]
+            
+    },
+    "message" : "Property details fetched successfully"
+}

@@ -1,0 +1,19 @@
+{
+    "status": true,
+    "property": {
+        "id": 1,
+        "charge_per_day" : 6500,
+        "security_deposit" : 4500,
+        "title" : "Yacht",
+        "description" : "This stunning waterfront oasis will give you full serenity with its canopy of tropical trees and its open-concept, airy home. You and your guests will have plenty of space both inside and outside of this 5 bedroom Miami vacation home. Enjoy a full water experience with the outside lounging area, 85 ft. dock, and spacious pool. It is only minutes away from the lively Las Olas strip and beach, so your stay will be full of entertainment!",
+        "cover_image" : "http://localhost:3000/images/2019_huracan_evo_15-p-500.jpeg",
+        "car_images" : [
+            "http://localhost:3000/images/2019_huracan_evo_15-p-500.jpeg",
+            "http://localhost:3000/images/2019_huracan_evo_6-p-1080.jpeg",
+            "http://localhost:3000/images/2019_huracan_evo_17-p-1080.jpeg",
+            "http://localhost:3000/images/car-2.png"
+        ]
+            
+    },
+    "message" : "Yacht details fetched successfully"
+}
